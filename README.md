@@ -11,4 +11,7 @@ Here are the steps you'll need to do:
 3. Make the script executable: `cd momento2dayone ; chmod a+x momento2dayone`
 4. Run it on a file, set of files, or stdin: `./momento2dayone momento_export.txt`
 
+
+Hamster
+
 That's it
